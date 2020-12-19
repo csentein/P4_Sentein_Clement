@@ -1,3 +1,0 @@
--Remplir le tableau "Modèle-audit-SEO"
--Améliorer le HTML/CSS (pour le SEO, pour la vitesse de chargement et pour l'accessibilité)
--Comparer les résultats à l'aide d'un rapport d'optimisation comprenant une comparaison des résultats

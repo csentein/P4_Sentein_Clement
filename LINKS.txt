@@ -1,0 +1,4 @@
+Liens :
+Projet initial : http://p4-initial-sentein-clement.extragate.fr
+Projet  : http://p4-sentein-clement.extragate.fr
+Comparaison résultats (GT METRIX) : https://gtmetrix.com/compare/cwqBw8pb/MjasYBA7
