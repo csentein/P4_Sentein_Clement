@@ -39,7 +39,10 @@ a:hover {
     position: relative;
 }
 
-.bloc .container {}
+.bloc .container {
+    padding-left: 150px;
+    padding-right: 300px;
+}
 
 .bloc-lg {
     padding: 100px 50px;
