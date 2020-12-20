@@ -1136,3 +1136,15 @@ h4 {
         font-size: 16px !important;
     }
 }
+
+.orangecolor {
+    color: #F3976C;
+}
+
+.nobackground {
+    background: none;
+    border: none;
+    padding: none;
+    margin: none;
+    display: block;
+}
